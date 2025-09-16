@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "ML Image Classifier",
+        "description": "Advanced deep learning model for multi-class image classification using TensorFlow and Convolutional Neural Networks. Achieved 94% accuracy on test dataset with data augmentation and transfer learning techniques.",
+        "image": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "github": "https://github.com/syedasadullah/ml-image-classifier",
+        "live": "https://ml-classifier-demo.netlify.app",
+        "technologies": ["Python", "TensorFlow", "Keras", "OpenCV"],
+        "category": "Machine Learning",
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "Data Analytics Dashboard",
+        "description": "Interactive web dashboard for comprehensive data visualization and analytics. Features real-time data processing, multiple chart types, and export functionality built with Python and Streamlit.",
+        "image": "https://images.pexels.com/photos/590041/pexels-photo-590041.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "github": "https://github.com/syedasadullah/data-analytics-dashboard",
+        "live": "https://data-dashboard-demo.streamlit.app",
+        "technologies": ["Python", "Streamlit", "Pandas", "Plotly"],
+        "category": "Data Analytics",
+        "featured": true
+    },
+    {
+        "id": 3,
+        "title": "Computer Vision Object Detection",
+        "description": "Real-time object detection and tracking system using YOLO algorithm and OpenCV. Capable of detecting multiple objects simultaneously with bounding box annotations and confidence scores.",
+        "image": "https://images.pexels.com/photos/2599537/pexels-photo-2599537.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "github": "https://github.com/syedasadullah/cv-object-detection",
+        "live": "https://cv-detection-demo.herokuapp.com",
+        "technologies": ["Python", "OpenCV", "YOLO", "NumPy"],
+        "category": "Computer Vision",
+        "featured": true
+    },
+    {
+        "id": 4,
+        "title": "Sentiment Analysis Tool",
+        "description": "Natural Language Processing tool for sentiment analysis of social media posts and reviews. Uses BERT transformer model for high accuracy emotion detection and classification.",
+        "image": "https://images.pexels.com/photos/267371/pexels-photo-267371.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "github": "https://github.com/syedasadullah/sentiment-analysis",
+        "live": "https://sentiment-analyzer-demo.vercel.app",
+        "technologies": ["Python", "BERT", "NLTK", "Transformers"],
+        "category": "Natural Language Processing",
+        "featured": false
+    },
+    {
+        "id": 5,
+        "title": "Predictive Maintenance System",
+        "description": "IoT-based predictive maintenance solution using machine learning algorithms to predict equipment failures. Incorporates sensor data analysis and maintenance scheduling automation.",
+        "image": "https://images.pexels.com/photos/159298/gears-cogs-machine-machinery-159298.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "github": "https://github.com/syedasadullah/predictive-maintenance",
+        "live": "https://predictive-maintenance-demo.netlify.app",
+        "technologies": ["Python", "Scikit-learn", "IoT", "Flask"],
+        "category": "IoT & Machine Learning",
+        "featured": false
+    },
+    {
+        "id": 6,
+        "title": "AI Chatbot Assistant",
+        "description": "Intelligent conversational AI chatbot powered by GPT and custom training data. Features context awareness, multi-language support, and integration with various messaging platforms.",
+        "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "github": "https://github.com/syedasadullah/ai-chatbot",
+        "live": "https://ai-chatbot-demo.vercel.app",
+        "technologies": ["Python", "GPT-3", "Flask", "JavaScript"],
+        "category": "Artificial Intelligence",
+        "featured": false
+    }
+]
